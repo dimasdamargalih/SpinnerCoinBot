@@ -1,0 +1,1 @@
+query_id=AAGZR5MKAwAAAJlHkwo2r3nA&user=%7B%22id%22%3A6619875225%2C%22first_name%22%3A%22Dimas%22%2C%22last_name%22%3A%22Damar%20Galih%22%2C%22username%22%3A%22embrio25%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1724118017&hash=2e38a3ed1e7643b0fde79aacdf5f87b5ffa626fdec4d3f05ca1ea97b7836c5fd
